@@ -93,3 +93,4 @@ int main() {
 
 '''
 
+![labs_1_1.png](lasb_1.md)
