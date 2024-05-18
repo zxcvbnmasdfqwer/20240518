@@ -123,4 +123,4 @@ if (found) {
     console.log("Not Found");
 }
 
-![labs_2]()
+![labs_2.md](labs_1_2.png)
